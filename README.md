@@ -37,6 +37,8 @@
 
 <img align="left" alt="Kenton's Github Stats" src="https://github-readme-stats-cyan-three.vercel.app/api?username=kenton&show_icons=true&hide_border=true" />
 
+[![Top Langs](https://github-readme-stats-cyan-three.vercel.app/api/top-langs/?username=kenton)](https://github.com/kenton/github-readme-stats)
+
 </details>
 
 [twitter]: https://twitter.com/kentonnewby
