@@ -1,6 +1,6 @@
 ### Hey there, I'm Kenton. 👋🏽
 
-## I'm a Husband, Father, Software Developer, Entrepreneur and budding Student Pilot!
+## I'm a Husband, Father, Software Developer, Entrepreneur and budding Private Pilot!
 
 - 🌱 I love learning new things - currently learning <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" width="22px" alt="firebase logo">
 - 🥅 2020 Goals: Earn my private pilot's license and grow my side business
