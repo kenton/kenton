@@ -35,7 +35,7 @@
 <details>
   <summary>:zap: Github Stats</summary>
 
-<img align="left" alt="Kenton's Github Stats" src="https://github-readme-stats-gamma-lemon.vercel.app/api?username=kenton&show_icons=true&hide_border=true" />
+<img align="left" alt="Kenton's Github Stats" src="https://github-readme-stats-cyan-three.vercel.app/api?username=kenton&show_icons=true&hide_border=true" />
 
 </details>
 
