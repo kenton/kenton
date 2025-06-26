@@ -6,7 +6,7 @@ I’m Kenton — a Senior Full-Stack Developer and Engineering Leader with a pas
 I’m actively exploring the intersection of software engineering and AI automation.
 
 🛠 Tools I’m using:
-- **ChatGPT** – my integrated thought partner for content, coaching, scaling ideas, and technical decision-making. It’s especially powerful for uncovering blind spots and surfacing perspectives I might have missed.
+- **ChatGPT** – my integrated thought partner for content, coaching, scaling ideas, and technical decision-making. It’s especially valuable for surfacing blind spots and perspectives I may not have considered.
 - **Cursor** – my AI-powered dev environment of choice, enabling faster iteration and better team velocity 
 - **Manus** – my go-to for deep research, structured reports, and high-fidelity product planning
 
@@ -43,6 +43,9 @@ I’m actively exploring the intersection of software engineering and AI automat
 
 ## 📬 Contact
 Reach me at kentonnewby@gmail.com  
+📄 [View My Resume](https://www.dropbox.com/scl/fi/bars95ipn5ov5u90o3ibi/Kenton-Newby-Resume.pdf?rlkey=84p5sk4ecg30zd14q4zx54y8x&dl=0)
+
+
 
 <br />
 <br />
