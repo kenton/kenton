@@ -1,6 +1,6 @@
 ### Hey there, I'm Kenton. 👋🏽
 
-## I'm a Husband, Dad, Software Developer, have worked as a Mortgage Loan Advisor!
+## I'm a Husband, Dad, Software Developer, and have worked as a Mortgage Loan Advisor!
 
 - 🌱 I love learning new things - currently learning <img src="https://github.com/user-attachments/assets/1534c2b8-54d5-484c-8900-bfed37a9b95c" width="22px" alt="nextjs logo">
 - 🥅 2025 Goals: Get back into tech after a short time away from all the fun
