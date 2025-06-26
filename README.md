@@ -10,16 +10,17 @@ I’m actively exploring the intersection of software engineering and AI automat
 - **Cursor** – my AI-powered dev environment of choice, enabling faster iteration and better team velocity 
 - **Manus** – my go-to for deep research, structured reports, and high-fidelity product planning
 
+## 🔍 Actively Looking For
+- **Engineering Manager** or **Senior Developer** roles  
+- Remote-first 
+- AI-first companies, productivity tools, or financial technology
+
 ## 🧠 What I Bring
 - 10+ years in software and systems development
 - Led remote engineering teams and mentored junior devs
 - Architected scalable apps using Rails, React, Next.js, and PostgreSQL
 - Focused on velocity, team health, and business outcomes
-
-## 🔍 Actively Looking For
-- **Engineering Manager** or **Senior Developer** roles  
-- Remote-first 
-- AI-first companies, productivity tools, or financial technology
+- Known for mentoring devs, unblocking teams, and aligning engineering work with business goals
 
 ## 📈 2025 Goals
 - Join a forward-thinking engineering team solving complex problems
@@ -40,6 +41,9 @@ I’m actively exploring the intersection of software engineering and AI automat
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kenton&layout=compact)
+
 
 ## 📬 Contact
 Reach me at kentonnewby@gmail.com  
