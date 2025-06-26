@@ -1,14 +1,32 @@
-### Hey there, I'm Kenton. 👋🏽
+## About Me 👋🏽
 
-## I'm a Husband, Dad, Software Developer, and have worked as a Mortgage Loan Advisor!
+I’m Kenton — a Senior Full-Stack Developer and Engineering Leader with a passion for clean code, simple systems, and helping people grow. I’ve worked across fintech, mortgage, and SaaS — and I’m deeply excited about where AI is taking us next.
 
-- 🌱 I love learning new things - currently learning <img src="https://github.com/user-attachments/assets/1534c2b8-54d5-484c-8900-bfed37a9b95c" width="22px" alt="nextjs logo">
-- 🥅 2025 Goals: Get back into tech after a short time away from all the fun
-- ⚡ Fun fact: I've been trying to learn the guitar for years, but there's only so much time in the day
+## 🤖 AI-First Builder
+I’m actively exploring the intersection of software engineering and AI automation.
 
+🛠 Tools I’m using:
+- **ChatGPT** – my integrated thought partner for content, coaching, scaling ideas, and technical decision-making. It’s especially powerful for uncovering blind spots and surfacing perspectives I might have missed.
+- **Cursor** – my AI-powered dev environment of choice, enabling faster iteration and better team velocity 
+- **Manus** – my go-to for deep research, structured reports, and high-fidelity product planning
 
-### Languages and Tools:
+## 🧠 What I Bring
+- 10+ years in software and systems development
+- Led remote engineering teams and mentored junior devs
+- Architected scalable apps using Rails, React, Next.js, and PostgreSQL
+- Focused on velocity, team health, and business outcomes
 
+## 🔍 Actively Looking For
+- **Engineering Manager** or **Senior Developer** roles  
+- Remote-first 
+- AI-first companies, productivity tools, or financial technology
+
+## 📈 2025 Goals
+- Join a forward-thinking engineering team solving complex problems
+- Build or contribute to AI-powered SaaS or DevTools
+- Continue shipping indie side projects with real-world impact
+
+## 🛠️ Tech Stack
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
@@ -20,6 +38,9 @@
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+## 📬 Contact
+Reach me at kentonnewby@gmail.com  
 
 <br />
 <br />
