@@ -5,7 +5,7 @@ I’m Kenton — a Senior Full-Stack Developer and Engineering Leader with a pas
 ## 🤖 AI-First Builder
 I’m actively exploring the intersection of software engineering and AI automation.
 
-🛠 Tools I’m using:
+## 🛠 Tools I’m using:
 - **ChatGPT** – my integrated thought partner for content, coaching, scaling ideas, and technical decision-making. It’s especially valuable for surfacing blind spots and perspectives I may not have considered.
 - **Cursor** – my AI-powered dev environment of choice, enabling faster iteration and better team velocity 
 - **Manus** – my go-to for deep research, structured reports, and high-fidelity product planning
@@ -53,15 +53,6 @@ Reach me at kentonnewby@gmail.com
 
 <br />
 <br />
-
-<details>
-  <summary>:zap: Github Stats</summary>
-
-  <img align="left" alt="Kenton's Github Stats" src="https://github-readme-stats-cyan-three.vercel.app/api?username=kenton&show_icons=true&hide_border=true" />
-
-[![Top Langs](https://github-readme-stats-cyan-three.vercel.app/api/top-langs/?username=kenton)](https://github.com/kenton/github-readme-stats)
-
-</details>
 
 <details>
   <summary>Resources Used for This Page</summary>
