@@ -20,11 +20,6 @@ I focus on applying AI in production systems where it meaningfully improves spee
 - Focused on velocity, team health, and business outcomes
 - Known for mentoring devs, unblocking teams, and aligning engineering work with business goals
 
-## 📈 2025 Goals
-- Join a forward-thinking engineering team solving complex problems
-- Build or contribute to AI-powered SaaS or DevTools
-- Continue shipping indie side projects with real-world impact
-
 ## 🛠️ Tech Stack
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
