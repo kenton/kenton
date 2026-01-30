@@ -1,24 +1,27 @@
 ## About Me 👋🏽
 
-I’m Kenton — a Senior Full-Stack Developer and Engineering Leader with a passion for clean code, simple systems, and helping people grow. I’ve worked across fintech, mortgage, and SaaS — and I’m deeply excited about where AI is taking us next.
+I’m Kenton — a Solutions Architect and Engineering Leader who designs and delivers systems that sit between technical platforms and real business execution.
 
-## 🤖 AI-First Builder
+I’ve led engineering teams, built and scaled production systems, and applied AI to automate workflows, decision support, and product experimentation — always with a focus on adoption, reliability, and outcomes.
+
+## 🤖 Applied AI in Production Systems
 I’m actively exploring the intersection of software engineering and AI automation.
 
-## 🛠 Tools I’m using:
-- **ChatGPT** – my integrated thought partner for content, coaching, scaling ideas, and technical decision-making. It’s especially valuable for surfacing blind spots and perspectives I may not have considered.
-- **Cursor** – my AI-powered dev environment of choice, enabling faster iteration and better team velocity 
-- **Manus** – my go-to for deep research, structured reports, and high-fidelity product planning
+## 🛠 How I Work:
+- Use LLMs to accelerate discovery, prototype workflows, and pressure-test system designs
+- Apply AI selectively to reduce manual effort and improve decision quality
+- Favor simple, debuggable systems over clever abstractions
+- Optimize for adoption, not novelty
 
 ## 🔍 Actively Looking For
-- **Engineering Manager** or **Senior Developer** roles  
+- **Engineering Manager** or **Technical Product / Platform Leadership** roles  
 - Remote-first 
 - AI-first companies, productivity tools, or financial technology
 
 ## 🧠 What I Bring
 - 10+ years in software and systems development
 - Led remote engineering teams and mentored junior devs
-- Architected scalable apps using Rails, React, Next.js, and PostgreSQL
+- Designed and delivered scalable systems supporting scalable apps using Rails, React, Next.js, and PostgreSQL
 - Focused on velocity, team health, and business outcomes
 - Known for mentoring devs, unblocking teams, and aligning engineering work with business goals
 
