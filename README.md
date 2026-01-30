@@ -13,11 +13,6 @@ I focus on applying AI in production systems where it meaningfully improves spee
 - Favor simple, debuggable systems over clever abstractions
 - Optimize for adoption, not novelty
 
-## 🔍 Actively Looking For
-- **Engineering Manager** or **Technical Product / Platform Leadership** roles  
-- Remote-first 
-- AI-first companies, productivity tools, or financial technology
-
 ## 🧠 What I Bring
 - 10+ years in software and systems development
 - Led remote engineering teams and mentored junior devs
