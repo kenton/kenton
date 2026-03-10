@@ -1,8 +1,8 @@
 ## About Me 👋🏽
 
-I’m Kenton, a Solutions Architect and Engineering Leader who designs and delivers systems at the intersection of technical platforms and real business execution.
+I’m Kenton, a Solutions Architect and Engineering Leader who designs and delivers systems that apply technical platforms to real business execution.
 
-I’ve led engineering teams, built and scaled production systems, and applied AI to improve workflow efficiency, decision quality, and product experimentation — always with a focus on adoption, reliability, and outcomes.
+I’ve led engineering teams, built and scaled production systems, and applied AI to improve workflow efficiency, decision quality, and product experimentation...always with a focus on adoption, reliability, and outcomes.
 
 ## 🤖 Applied AI in Production Systems
 I focus on applying AI in production systems where it meaningfully improves speed, quality, or decision-making.
